@@ -1,14 +1,15 @@
 # Data
 recipies.json
-./data/*
+data/
+graphics/
+models/
+*.pptx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Models
-models/
 
 # C extensions
 *.so
