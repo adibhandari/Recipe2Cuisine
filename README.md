@@ -8,17 +8,17 @@ Objective is to enable users to query recipes by cuisine, not just ingredients. 
 
 ## Data
 
-Recipes data challenge
+Recipes data challenge. The dataset is similar to the [What's Cooking Kaggle dataset](https://www.kaggle.com/c/whats-cooking/data).
+
+## Process
+
+Data cleaning and exploratory data analysis is outlined in data_processing. Modeling is done using a combination of TF-IDF Vectorization and grid search using sklearn in model_training.
 
 ## Prerequisites
 
 * Python 3.7
 * Jupyter Notebook
-* Streamlit
 * sklearn
-* Plotly
-* AWS EC2
-* AWS CLI
-* boto3
+* seaborn
 
 
